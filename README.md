@@ -10,6 +10,7 @@ This is a simple To-Do List application built with React. It allows users to add
 
 ## Project Structure
 
+'''sh
 my-todo-app/
 ├── node_modules/
 ├── public/
@@ -30,6 +31,7 @@ my-todo-app/
 ├── .gitignore
 ├── package.json
 └── README.md
+'''
 
 
 
